@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\C# Programs\RazorPizzeria\RazorPizzaria\RazorPizzaria
 build_property._RazorSourceGeneratorDebug = 
 
+[G:/C\# Programs/RazorPizzeria/RazorPizzaria/RazorPizzaria/Pages/Checkout/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/C\# Programs/RazorPizzeria/RazorPizzaria/RazorPizzaria/Pages/Checkout/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcVGhhbmtZb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/C\# Programs/RazorPizzeria/RazorPizzaria/RazorPizzaria/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
