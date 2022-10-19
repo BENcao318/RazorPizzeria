@@ -16,5 +16,9 @@
         public bool Beef { get; set; }
         public float FinalPrice { get; set; }
 
+        public PizzasModel()
+        {
+                
+        }
     }
 }
