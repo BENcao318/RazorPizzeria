@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPizzaria.Models;
 
 namespace RazorPizzaria.Pages
-{
+{ 
     public class PizzaModel : PageModel
     {
-        public List<PizzasModel> fakePizzaDB = new List<PizzasModel>()
+        public List<PizzasModel> fakePizzaDB = new List<PizzasModel>() 
         {
            new PizzasModel() { ImageTitle = "Margerita", PizzaName = "Margerita", BasePrice = 2, TomatoSauce = true, Cheese = true, FinalPrice = 4 },
            new PizzasModel() { ImageTitle = "Bolognese", PizzaName = "Bolognese", BasePrice = 2, TomatoSauce = true, Cheese = true, Ham = true, Beef = true, FinalPrice = 6 },

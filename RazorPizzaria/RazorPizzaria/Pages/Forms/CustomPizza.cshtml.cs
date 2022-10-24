@@ -11,7 +11,7 @@ namespace RazorPizzaria.Pages.Forms
         public PizzasModel Pizza { get; set; }
         public float PizzaPrice { get; set; }
         public void OnGet()
-        {
+        { 
         }
 
         public IActionResult OnPost()
