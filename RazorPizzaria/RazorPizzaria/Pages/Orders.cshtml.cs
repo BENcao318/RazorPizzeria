@@ -6,7 +6,7 @@ using RazorPizzaria.Models;
 namespace RazorPizzaria.Pages
 {
     public class OrdersModel : PageModel
-    {
+    { 
         public List<PizzaOrder> PizzaOrders = new List<PizzaOrder>();
 
         private readonly ApplicationDbContext _context;
