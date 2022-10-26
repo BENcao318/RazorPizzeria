@@ -13,7 +13,7 @@ namespace RazorPizzaria.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"), 
+                        .Annotation("SqlServer:Identity", "1, 1"),  
                     PizzaName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     BasePrice = table.Column<float>(type: "real", nullable: false) 
                 },
