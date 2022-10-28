@@ -13,7 +13,7 @@ namespace RazorPizzaria.Pages
         }
 
         public void OnGet()
-        { 
+        {   
 
         }
     }
