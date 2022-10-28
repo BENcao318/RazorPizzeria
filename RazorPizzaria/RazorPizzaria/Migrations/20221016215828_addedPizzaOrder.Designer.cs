@@ -13,7 +13,7 @@ namespace RazorPizzaria.Migrations
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20221016215828_addedPizzaOrder")]
     partial class addedPizzaOrder
-    {
+    { 
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618

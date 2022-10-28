@@ -9,7 +9,7 @@ namespace RazorPizzaria.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "PizzaOrders",
+                name: "PizzaOrders", 
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
